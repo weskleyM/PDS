@@ -1,7 +1,8 @@
 # banco_imobiliario
 
-Projeto PDS - Banco Imobiliário.
-Autor: Weskley Moreira.
+Projeto PDS - Banco Imobiliário.<br>
+Autor: Weskley Moreira.<br>
+**>>> TODO O CÓDIGO FONTE ESTÁ NA PASTA lib/ <<<**
 
 ## Getting Started
 
